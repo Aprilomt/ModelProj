@@ -1,2 +1,2 @@
 # ModelProj
-The all source code of MVIC will come soon.
+All source code of MVIC will come soon.
